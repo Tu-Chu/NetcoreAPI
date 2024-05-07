@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using MvcMovie.Models;
+using DemoMvc.Models;
 
-namespace MvcMovie.Controllers;
+namespace DemoMvc.Controllers;
 
 public class HomeController : Controller
 {
@@ -17,15 +17,11 @@ public class HomeController : Controller
     {
         return View();
     }
-
-    public IActionResult Privacy()
+    [HttpPost]
+    public IActionResult Index(string FullName, string Address)
     {
+        string strOutput = "Xin chào" + " " + FullName + " " + "đến từ" + " " + Address;
+        ViewBag.Me = strOutput;
         return View();
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }

@@ -1,19 +1,17 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Text.Encodings.Web;    
-namespace MvcMovie.Controllers
-{
-    public class HelloWorldController : Controller
-    {
-        //GET: /HelloWorld/
-        public IActionResult Index()
-        {
-            return View();
-        }
-        //GET: /HelloWorld/Welcome/
 
-        public string Welcome()
-        {
-            return "This is the Welcome action method...";
-        }
+namespace DemoMvc.Controllers;
+public class HelloWordController : Controller
+{
+    public IActionResult Index()
+    {
+        return View();
+    }
+    [HttpPost]
+    public IActionResult Index(string FullName, string Address)
+    {
+        string strOutput = "Xin chào" + " " + FullName + " " + "đến từ" + " " + Address;
+        ViewBag.Ma = strOutput;
+        return View();
     }
 }

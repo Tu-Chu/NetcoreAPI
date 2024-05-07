@@ -29,3 +29,34 @@ E:\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
 E:\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
 E:\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
 E:\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\appsettings.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\MvcMovie.staticwebassets.runtime.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\MvcMovie.exe
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\MvcMovie.deps.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\MvcMovie.runtimeconfig.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\MvcMovie.dll
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\bin\Debug\net7.0\MvcMovie.pdb
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcMovie.props
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\MvcMovie.styles.css
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
+F:\Ổ E data\ChuThienTu639_PTPMQL\DemoGit\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll

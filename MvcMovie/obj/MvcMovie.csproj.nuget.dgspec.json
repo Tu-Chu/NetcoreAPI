@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj": {}
+    "F:\\Ổ E data\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "E:\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj": {
+    "F:\\Ổ E data\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "F:\\Ổ E data\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "E:\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "F:\\Ổ E data\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\obj\\",
+        "outputPath": "F:\\Ổ E data\\ChuThienTu639_PTPMQL\\DemoGit\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
